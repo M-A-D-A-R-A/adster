@@ -1,0 +1,6 @@
+timestamp,ip,user_id,geo_country,geo_region,geo_city,device_type,os,browser,domain,url,ad_position,ad_size
+2024-09-23T03:04:57.732952,38.232.72.70,e1c7159d-eb46-4ad2-b889-c33dc7672521,IN,Maharashtra,Shanghai,tablet,Android,Opera,testsite.com,https://testsite.com/page/38,top,160x600
+2024-09-21T18:05:09.732952,105.76.3.9,0b023bb8-bb0f-498c-b24d-9189d45b7260,CN,California,London,mobile,macOS,Edge,sample.org,https://sample.org/page/82,sidebar,300x600
+2024-09-14T08:12:13.732952,52.213.237.12,03e667ed-a012-4e72-9c9f-1e505a42e2ed,DE,Maharashtra,Sydney,tablet,Linux,Edge,sample.org,https://sample.org/page/71,middle,728x90
+2024-09-23T05:12:03.732952,138.57.227.80,edda5f5c-7131-4990-b295-d5f1aa448c7a,CA,Ontario,Tokyo,tablet,Android,Safari,example.com,https://example.com/page/77,middle,160x600
+2024-09-17T15:55:55.732952,117.8.5.10,3856e15c-e0a6-4442-b2d0-44e037381c8f,IN,Maharashtra,London,mobile,macOS,Opera,demo.com,https://demo.com/page/51,sidebar,728x90
